@@ -9,11 +9,11 @@
 }
 
 .text-white {
-    color: white;
+    color: #D8DEE9;
 }
 
 .text-black {
-    color: black;
+    color: #2E3440;
 }
 
 .text-bright-black {
@@ -28,7 +28,7 @@
     color: #e84393; 
 }
 .text-green {
-    color: #16a085;
+    color: #A3BE8C;
 }
 
 .text-blue {
@@ -36,27 +36,27 @@
 }
 
 .text-yellow {
-    color: #f39c12;
+    color: #EBCB8B;
 }
 
 .bg-bright-black {
-    background: #575757;
+    background: #3B4252;
 }
 
 .bg-white {
-    background: white;
+    background: #D8DEE9;
 }
 
 .bg-black {
-    background: black;
+    background: #3B4252;
 }
 
 .bg-flat-black {
-    background: #252525;
+    background: #3B4252;
 }
 
 .bg-blue {
-    background: #0ba1e7;
+    background: #5E81AC;
 }
 
 .bg-light-black {
@@ -72,7 +72,7 @@
 }
 
 .bg-yellow {
-    background: #f39c12;
+    background: #EBCB8B;
 }
 
 .bg-orange {
@@ -80,7 +80,7 @@
 }
 
 .bg-green {
-    background: #16a085;
+    background: #8FBCBB;
 }
 
 .bg-transparent {
@@ -92,9 +92,11 @@
 }
 
 .bg-red {
-    background: #c0392b;
+    background: #BF616A;
 }
-
+.bg-darkblue{
+    background: #5E81AC;
+}
 
 .shadow-hover:hover {
     border-color: transparent;
